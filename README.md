@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proton64&layout=compact&theme=midnight-purple&border_color=0A0C10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proton64&layout=compact&border_color=0A0C10&bg_color=0A0C10&theme=midnight-purple">
 </p>
 
 <!--
