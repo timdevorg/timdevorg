@@ -16,7 +16,7 @@ I am currently going through the C++ Primer 5th edition, learning basic C++ stuf
 Once I am done with Chapter 2 or ~3, I'll tackle the CHIP-8 project.
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proton64&layout=compact&border_color=0A0C10&bg_color=0A0C10&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nepxtune&layout=compact&border_color=0A0C10&bg_color=0A0C10&theme=midnight-purple">
 </p>
 
 <!--
