@@ -8,7 +8,7 @@
 I know basic stupid Java. 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nepxtune&layout=compact&border_color=0A0C10&bg_color=0A0C10&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Npxtune&layout=compact&border_color=0A0C10&bg_color=0A0C10&theme=midnight-purple">
 </p>
 
 <!--
