@@ -15,6 +15,7 @@ but I love coding and want to support game preservation.
 I am currently going through the C++ Primer 5th edition, learning basic C++ stuff.
 Once I am done with Chapter 2 or ~3, I'll tackle the CHIP-8 project.
 
+Ignore this for now:
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Npxtune&layout=compact&border_color=0A0C10&bg_color=0A0C10&theme=midnight-purple">
 </p>
