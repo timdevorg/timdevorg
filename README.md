@@ -8,7 +8,7 @@
 I know basic stupid Java. Currently learning Rust (fuck c++).
 
 ### Why tf would you work on emulators?
-I've used them, you have probably as well. I love them, they preserve games + let us mod them.
+I've used them, you have probably as well. I love them, they preserve games + lets us mod them.
 So why not contribute and become a developer? Yes it will take lots of time,
 but I love coding and want to support game preservation.
 
