@@ -17,7 +17,7 @@ but I love coding and want to support game preservation.
 I am currently going through the Rust book.
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Npxtune&layout=compact&border_color=0A0C10&bg_color=0A0C10&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoidiangelo&layout=compact&border_color=0A0C10&bg_color=0A0C10&theme=midnight-purple">
 </p>
 
 <!--
