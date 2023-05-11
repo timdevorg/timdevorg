@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Rust
 - 👯 I’m free to collaborate on projects
 
-# Currently stopped work on all projects.
-
 ### Experience
 I know basic Java. Currently learning Rust ~~(later maybe c++ or c)~~.
 
