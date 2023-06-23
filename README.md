@@ -1,32 +1,55 @@
-### Hi there 👋
+# Welcome to my GitHub Profile 👋
 
-- 🔭 I’m planning to work on an CHIP-8 emulator
-- 🌱 I’m currently learning C ~~Rust~~
-- 👯 I’m free to collaborate on projects
+<!--
+INTRODUCTION:
+-->
 
-### Experience
-I know basic Java. Currently learning C ~~Rust (later maybe c++)~~.
-
-### Why would you work on emulators?
-I appreciate them, they preserve games and let us modify and enhance them.
-So why not contribute and become a developer? Yes it will take lots of time,
-but I love coding and want to support game preservation.
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoidiangelo&layout=compact&border_color=0A0C10&bg_color=0A0C10&theme=midnight-purple">
+<p align="center">
+o/<br>
+I'm Tim.<br>
+Currently working on learning C.<br><br>
 </p>
 
 <!--
-**Proton64/Proton64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+LOGO SECTION FOR LANGUAGES & OS:
 -->
+
+<p align="center">
+  <strong>Languages:</strong>
+</p>
+<p align="center">
+  <a href="https://github.com/khoidiangelo">
+    <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c"/>
+  </a>
+  <a href="https://github.com/khoidiangelo">
+    <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>OS:</strong>
+</p>
+<p align="center">
+  <a href="https://github.com/khoidiangelo">
+    <img src="https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos"/>
+  </a>
+  <a href="https://github.com/khoidiangelo">
+    <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux"/>
+  </a><br><br>
+</p>
+
+<!--
+STATISTICS:
+-->
+
+<p align="center">
+  <a href="https://github.com/khoidiangelo">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khoidiangelo&theme=transparent"/>
+  </a>
+  <a href="https://github.com/khoidiangelo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoidiangelo&hide_border=true&card_width=338&theme=transparent"/>
+  </a>
+  <a href="https://github.com/khoidiangelo">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khoidiangelo&theme=transparent"/>
+  </a>
+</p>
