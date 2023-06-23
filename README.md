@@ -30,7 +30,7 @@ STATISTICS:
 LOGO SECTION FOR LANGUAGES & OS:
 -->
 
-<p align="center"><br>
+<p align="center">
   <strong>Languages:</strong>
 </p>
 <p align="center">
