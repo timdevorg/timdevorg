@@ -17,13 +17,11 @@ STATISTICS:
 <p align="center">
   <a href="https://github.com/khoidiangelo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khoidiangelo&theme=transparent"/>
-  </a>
-  <a href="https://github.com/khoidiangelo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoidiangelo&hide_border=true&card_width=338&theme=transparent"/>
-  </a>
-  <a href="https://github.com/khoidiangelo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khoidiangelo&theme=transparent"/>
-  </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khoidiangelo&theme=transparent"/><br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khoidiangelo&theme=transparent">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khoidiangelo&theme=transparent">
+  </a><br><br>
 </p>
 
 <!--
@@ -31,25 +29,14 @@ LOGO SECTION FOR LANGUAGES & OS:
 -->
 
 <p align="center">
-  <strong>Languages:</strong>
-</p>
-<p align="center">
   <a href="https://github.com/khoidiangelo">
     <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c"/>
-  </a>
-  <a href="https://github.com/khoidiangelo">
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>OS:</strong>
-</p>
-<p align="center">
-  <a href="https://github.com/khoidiangelo">
     <img src="https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos"/>
-  </a>
-  <a href="https://github.com/khoidiangelo">
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux"/>
   </a>
 </p>
+
+<!--
+the end ™️
+-->
