@@ -44,7 +44,7 @@ LOGO SECTION FOR LANGUAGES & OS:
 
 <p align="center">
   <a href="https://discord.com/users/363401200936419330">
-  <img src="https://lanyard.kyrie25.me/api/363401200936419330?showDisplayName=true">
+  <img src="https://lanyard.kyrie25.me/api/363401200936419330?showDisplayName=true&idleMessage=Doing%20stuff...">
   </a><br>
 </p>
 
