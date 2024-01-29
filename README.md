@@ -44,7 +44,11 @@ LOGO SECTION FOR LANGUAGES & OS:
 
 <p align="center">
   <a href="https://discord.com/users/363401200936419330">
-  <img src="https://lanyard.kyrie25.me/api/363401200936419330?showDisplayName=true&idleMessage=Doing%20stuff...">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.kyrie25.me/api/363401200936419330?theme=dark&showDisplayName=true&borderRadius=0px&idleMessage=Doing%20stuff...">
+    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.kyrie25.me/api/363401200936419330?theme=light&showDisplayName=true&borderRadius=0px&idleMessage=Doing%20stuff...">
+    <img alt="Discord activity">
+  </picture>
   </a><br>
 </p>
 
