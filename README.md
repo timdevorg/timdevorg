@@ -35,7 +35,17 @@ LOGO SECTION FOR LANGUAGES & OS:
     <img src="https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos"/>
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux"/>
     <img src="https://img.shields.io/badge/raylib-black?style=for-the-badge&logo=raylib"/>
+    <img src="https://img.shields.io/badge/opengl-black?style=for-the-badge&logo=opengl"/>
+    <img src="https://img.shields.io/badge/vulkan-black?style=for-the-badge&logo=vulkan"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://discord.com/users/363401200936419330">
+  <img src="https://lanyard.kyrie25.me/api/363401200936419330?showDisplayName=true">
+  </a><br>
 </p>
 
 <!--
