@@ -30,6 +30,7 @@ LOGO SECTION FOR LANGUAGES & OS:
 
 <p align="center">
   <a href="https://github.com/npxtune">
+    <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus"/>
     <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c"/>
     <img src="https://img.shields.io/badge/clion-black?style=for-the-badge&logo=clion"/>
     <img src="https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos"/>
