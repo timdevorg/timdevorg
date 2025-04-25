@@ -16,11 +16,11 @@ STATISTICS:
 
 <p align="center">
   <a href="https://github.com/npxtune">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=npxtune&theme=transparent"/>
-    <img src="https://streak-stats.demolab.com?user=npxtune&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=npxtune&theme=transparent"/><br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=npxtune&theme=transparent">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=npxtune&theme=transparent">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timdevorg&theme=transparent"/>
+    <img src="https://streak-stats.demolab.com?user=timdevorg&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=timdevorg&theme=transparent"/><br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timdevorg&theme=transparent">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timdevorg&theme=transparent">
   </a><br><br>
 </p>
 
